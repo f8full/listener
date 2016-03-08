@@ -20,4 +20,4 @@ From command line run: sudo tshark -I -l -i xxx -T fields -e wlan.sa -e wlan_mgt
 Audio files can be found here: http://www.mediafire.com/download/73a3d84cltpwta9/Audio_Files.zip
 
 NOTE
-It is possible to run this on a Mac OSX computer with no external wifi adaptor required - finding a substitute for stdbuf that works to satisfaction is something I'll address in the future.
+It is possible to run this on most Mac OSX computers with no external wifi adaptor required - finding a substitute for stdbuf that works to satisfaction is something I'll address in the future.
