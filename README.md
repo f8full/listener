@@ -4,6 +4,7 @@ The Listener - sonification of probe requests with wireshark + puredata
 The Listener employs data sonification to materialise probe requests sent from networked devices, exposing this discrete process and creating new relationships to this data.
 
 Hardware required:
+
 Raspberry Pi (B+ 1 or 2) running Raspbian Wheezy
 
 WLAN adaptor (with RALINK 5370 or similar chipset that allows monitor/soft AP mode)
@@ -14,6 +15,7 @@ Powered speaker connected via RPi audio jack
 
 
 Software dependencies:
+
 wireshark/tshark (available at: https://www.wireshark.org/)
 
 pd-extended (available at: https://puredata.info/)
