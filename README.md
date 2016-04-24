@@ -1,7 +1,7 @@
 # listener
 The Listener - sonification of probe requests with wireshark + puredata
 
-The Listener employs data sonification to materialise probe requests sent from networked devices, exposing this discrete process and creating new relationships to this data.
+The Listener employs data sonification to materialise probe requests sent from networked devices such as smartphones, exposing this discrete process and creating new relationships to the data generated from our personal devices.  It can be seen here: https://vimeo.com/162076997
 
 Hardware required:
 
